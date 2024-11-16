@@ -29,6 +29,14 @@ With a proactive attitude, I am eager to learn, grow, and contribute meaningfull
 <p align="left">Git Hub Trophies</p>
   <img src="https://github-profile-trophy.vercel.app/?username=leharikasri&theme=radical&title=Repositories,Commits,Issues,PullRequest,Years" alt="GitHub Trophies" />
 </p>
+<!---github stats-->
+<p align="center">GitHub Stats</p>
+<p align="center">
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=leharikasri&show_icons=true&hide=prs&count_private=true&theme=radical)
+</p>
+<p align="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leharikasri&langs_count=5&layout=compact&theme=radical)
+</p>
 
 
 ## Hi there 👋
