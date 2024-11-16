@@ -28,8 +28,9 @@ With a proactive attitude, I am eager to learn, grow, and contribute meaningfull
 <!-----github trophies---->
 <p align="left">Git Hub Trophies</p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leharikasri&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leharikasri&theme=radical&title=Repositories,Commits,Issues,PullRequest,Years" alt="GitHub Trophies" />
 </p>
+
 
 ## Hi there 👋
 
