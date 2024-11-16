@@ -47,9 +47,11 @@ With a proactive attitude, I am eager to learn, grow, and contribute meaningfull
 
 
 🧭   My approach to growth is rooted in collaboration, empathy, and the relentless pursuit of excellence. I believe in learning from challenges, continuously improving, and delivering results that make a difference in both professional and personal endeavors.
-
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
+<p align="left">Git Hub STATS</p>
 <br>      
-<details>
   
 <p align="center">
   <a href="https://github.com/leharikasri">
@@ -60,7 +62,6 @@ With a proactive attitude, I am eager to learn, grow, and contribute meaningfull
   </a>
   <a href="https://github.com/leharikasri">
 
-</details>
 
 <br><br>
 
