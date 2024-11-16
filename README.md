@@ -22,6 +22,9 @@ With a proactive attitude, I am eager to learn, grow, and contribute meaningfull
     <img src="https://skillicons.dev/icons?i=pandas,matlab,github,vscode,postman" />
   </a>
 </p>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
 ## Hi there 👋
 
