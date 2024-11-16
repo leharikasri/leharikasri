@@ -5,7 +5,10 @@
 <a href="https://www.linkedin.com/in/leharikasri04/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
   <a href="mailto:leharikasrichalapati@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   <a href="https://discord.com/users/1079078962082353202"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" ></a>
+<!----about mw-->
+  <p align="center"> My name is Chalapati Leharika Sri. Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. I have a knack for exploring innovative solutions through hands-on projects and internships, which have strengthened my technical and analytical skills.
 
+With a proactive attitude, I am eager to learn, grow, and contribute meaningfully to impactful projects. Whether it's building user-friendly applications, contributing to open-source, or participating in hackathons, I constantly seek opportunities to challenge myself and make a difference. I am also a team player who values creativity, adaptability, and lifelong learning.".</p>
 ## Hi there 👋
 
 
