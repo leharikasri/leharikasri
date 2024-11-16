@@ -10,6 +10,8 @@
 
 With a proactive attitude, I am eager to learn, grow, and contribute meaningfully to impactful projects. Whether it's building user-friendly applications, contributing to open-source, or participating in hackathons, I constantly seek opportunities to challenge myself and make a difference. I am also a team player who values creativity, adaptability, and lifelong learning.".</p>
 <!---technical skills--->
+<p align="center">My Technical Skills</p>
+
 <p align="center">
   <a href="https://github.com/leharikasri">
     <img src="https://skillicons.dev/icons?i=python,c,java,html,css,git,mysql,streamlit" />
