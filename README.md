@@ -9,6 +9,18 @@
   <p align="center"> My name is Chalapati Leharika Sri. Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. I have a knack for exploring innovative solutions through hands-on projects and internships, which have strengthened my technical and analytical skills.
 
 With a proactive attitude, I am eager to learn, grow, and contribute meaningfully to impactful projects. Whether it's building user-friendly applications, contributing to open-source, or participating in hackathons, I constantly seek opportunities to challenge myself and make a difference. I am also a team player who values creativity, adaptability, and lifelong learning.".</p>
+<!---technical skills--->
+<p align="center">
+  <a href="https://github.com/leharikasri">
+    <img src="https://skillicons.dev/icons?i=python,c,java,html,css,git,mysql,streamlit" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/leharikasri">
+    <img src="https://skillicons.dev/icons?i=pandas,matlab,github,vscode,postman" />
+  </a>
+</p>
+
 ## Hi there 👋
 
 
