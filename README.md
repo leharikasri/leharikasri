@@ -33,6 +33,41 @@ With a proactive attitude, I am eager to learn, grow, and contribute meaningfull
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
+<!----info--->
+<div>
+<i>  Work with Passion, Achieve with Purpose!</i><br><br>
+
+👋 Greetings! I'm Chalapati Leharika Sri, an enthusiastic,result-oriented person.
+
+🚀 I am passionate about technology and constantly exploring ways to integrate my technical skills to solve real-world problems. Currently, I'm working on various projects that involve machine learning, web development, and software engineering.
+
+🎓   I'm pursuing B.Tech in Electronics and Communication Engineering and actively working on personal projects, including a Movie Recommendation System and NLP-based Chatbot. I aim to expand my knowledge and skills by diving deeper into emerging technologies like java,web development.
+
+🔥   With a strong technical background, I am actively exploring innovative solutions and continuously learning from platforms like GitHub and LinkedIn. I engage with the tech community by sharing insights, learning from industry professionals, and contributing to open-source projects.
+
+
+🧭   My approach to growth is rooted in collaboration, empathy, and the relentless pursuit of excellence. I believe in learning from challenges, continuously improving, and delivering results that make a difference in both professional and personal endeavors.
+
+<br>      
+<details>
+  
+<p align="center">
+  <a href="https://github.com/leharikasri">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leharikasri&theme=transparent" />
+  </a>
+  <a href="https://github.com/leharikasri">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leharikasri&theme=transparent" />
+  </a>
+  <a href="https://github.com/leharikasri">
+
+</details>
+
+<br><br>
+
+<br> </div>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
 ⚡ Fun fact:
 I enjoy creating landing pages and experimenting with new design ideas to make them more interactive. Also, I love a good book and a game of cricket! 📚🏏
