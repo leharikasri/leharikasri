@@ -1,5 +1,5 @@
 <!-----banner--->
-![Banner GitHub](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRiturajGupta21%2FRiturajGupta21&psig=AOvVaw3lLf8ZJsmnhDHPbEKaYCGo&ust=1746172467243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKj8s8flgY0DFQAAAAAdAAAAABAE)
+![Banner GitHub]https://img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif>
 <!--social profiles-->
 <div align="center">
 <a href="https://www.linkedin.com/in/leharikasri04/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
