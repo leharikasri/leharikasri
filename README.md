@@ -1,5 +1,5 @@
 <!-----banner--->
-![Banner GitHub](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE3MzM5MTksIm5iZiI6MTczMTczMzYxOSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTE2VDA1MDY1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5ZjY3YjQxZjEzNjM3NTIzYjRmOTNkNmQzOTRkMDY2YWY2OWMyODhkZThkNDEzNDJiN2UzYjA1NWU4MDhkY2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NWpDq7pKZ9hk1yvIDDlT5ZHbMdxhb1sQSs-gWQT8U2o)
+![Banner GitHub](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRiturajGupta21%2FRiturajGupta21&psig=AOvVaw3lLf8ZJsmnhDHPbEKaYCGo&ust=1746172467243000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKj8s8flgY0DFQAAAAAdAAAAABAE)
 <!--social profiles-->
 <div align="center">
 <a href="https://www.linkedin.com/in/leharikasri04/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
